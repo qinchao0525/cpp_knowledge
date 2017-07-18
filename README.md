@@ -8,6 +8,11 @@ C++四个特性<br>
 * STL
 
 ## 2.面向对象知识图谱
+* class
+* 继承
+* 封装
+* 多态
+* C++对象模型
 ## 3.泛型编程知识图谱
 ## 4.STL知识图谱
 ![image](https://github.com/qinchao0525/cpp_knowledge/blob/master/STL图谱/STL_tupu.jpg)

@@ -20,5 +20,11 @@ C++四个特性<br>
     执行期语义<br>
 ## 3.泛型编程知识图谱
 ## 4.STL知识图谱
-![image](https://github.com/qinchao0525/cpp_knowledge/blob/master/STL图谱/STL_tupu.jpg)
+包括：<br>
+* 空间适配器
+* 迭代器
+* 容器
+* 算法
+* 仿函数
+* 配接器
 ## 5.网络编程图谱
